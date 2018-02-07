@@ -2,6 +2,9 @@
 
 This is a project for HUMAN COMPUTER INTERACTION class to help facilitate students with different languages to give directions on campus. This website helps translate one language to another via the Microsoft Azure platform. 
 
+## Deployed Link: http://pankhu-trans.s3-website.us-east-2.amazonaws.com/
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for usage. 
