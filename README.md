@@ -2,6 +2,9 @@
 
 This is a project for HUMAN COMPUTER INTERACTION class to help facilitate students with different languages to give directions on campus. This website helps translate one language to another via the Microsoft Azure platform. 
 
+## Deployed Link: http://pankhu-trans.s3-website.us-east-2.amazonaws.com/
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for usage. 
@@ -21,7 +24,7 @@ Copy the unzipped folder that you have extracted into the htdocs folder of XAMPP
 
 ## Running the tests
 
-Open Chrome(not safari, does not work on safari) and type in http://localhost/translate/ContactFrom_v6/index.php
+Open any Browser and type in http://localhost/translate/ContactFrom_v6/index.php
 
 Click on the transalte button.
 
