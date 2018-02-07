@@ -4,6 +4,7 @@ This is a project for HUMAN COMPUTER INTERACTION class to help facilitate studen
 
 ## Deployed Link: http://pankhu-trans.s3-website.us-east-2.amazonaws.com/
 
+## Here is the link to my video: https://drive.google.com/open?id=1Shp5njFsWqRaK1pf5LfAoKV8zpwmMSr-
 
 ## Getting Started
 
